@@ -82,7 +82,7 @@ No GUI.
 
 ![](Vulkan/hdr.png)
 
-![](Vulkan/without hdr.png)
+![](Vulkan/without_hdr.png)
 
 ### Shadow
 
